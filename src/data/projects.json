@@ -1,26 +1,25 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Cosmetic E-commerce Website & App",
+    "imageSrc": "projects/cosmetic-ecommerce.png",
+    "description": "This project is a full-stack web and mobile platform designed for selling cosmetics.",
+    "skills": ["ReactJS","NodeJS","MongoDB", "React Native","Flask"],
+    "demo": "https://client-production-cc5e.up.railway.app/",
+    "source": "https://github.com/mduyen2505/cosmetic-ecommerce.git"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Laptop E-commerce Website & App",
+    "imageSrc": "projects/laptop-ecommerce.png",
+    "description": "This project is a e-commerce platform for laptops.",
+    "skills": ["ReactJS", "NodeJS", "ExpressJS", "Flutter", "MongoDB"],
+    "demo": "https://dacn-production.up.railway.app/",
+    "source": "https://github.com/mduyen2505/laptop-ecommerce"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Fastfood Delivery Website (Jollibee Clone)",
+    "imageSrc": "projects/fastfood-delivery.png",
+    "description": "This project is an online food ordering platform, a Jollibee clone.",
+    "skills": ["ReactJS", "NodeJS","MongoDB"],
+    "source": "https://github.com/mduyen2505/fastfood_delivery"
   }
 ]

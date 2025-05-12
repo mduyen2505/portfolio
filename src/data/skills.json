@@ -8,23 +8,65 @@
     "imageSrc": "skills/css.png"
   },
   {
-    "title": "React",
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "ReactJS",
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "Material UI",
+    "imageSrc": "skills/materialui.png"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "skills/node.png"
+  },
+  
+  {
+    "title": "RESTful APIs",
+    "imageSrc": "skills/api.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
   },
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
+  
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
+    "title": "VS Code",
+    "imageSrc": "skills/vscode.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman.png"
+  },
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Expo",
+    "imageSrc": "skills/expo.png"
+  },
+  {
+    "title": "Jira",
+    "imageSrc": "skills/jira.png"
   }
 ]

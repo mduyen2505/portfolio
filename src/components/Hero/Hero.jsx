@@ -7,14 +7,21 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Ada</h1>
-        <p className={styles.description}>
-          I'm a full-stack developer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
-        </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
-          Contact Me
-        </a>
+        <h1 className={styles.title}>Hi, I'm My Duyen</h1>
+        <p className={`${styles.description} ${styles.typingEffect}`}>
+  WEB DEVELOPER
+</p>
+
+        <div className={styles.buttonGroup}>
+  <a href="mailto:mduyen.innovate@gmail.com" className={styles.contactBtn}>
+    Contact Me
+  </a>
+  <a href="/MyDuyen-CV.pdf" className={styles.downloadBtn} download>
+    Download CV
+  </a>
+</div>
+
+
       </div>
       <img
         src={getImageUrl("hero/heroImage.png")}
